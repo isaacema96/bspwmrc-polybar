@@ -13,13 +13,5 @@ https://github.com/Qiyue0726/awesome-osc/blob/main/Font%20Awesome%206%20Free-Sol
 > [!IMPORTANT]
 > Copie los archivos UPDATES Y WEATHER de la carpeta `scripts` a su carpeta `/bin`
 
-Hello
-Bye
-who
-Cristal
-Lulys
-<<<<<<< HEAD
-subiendo un nuevo commit
-=======
-Haciendo una prueba
->>>>>>> origin
+
+git pull
