@@ -16,3 +16,4 @@ https://github.com/Qiyue0726/awesome-osc/blob/main/Font%20Awesome%206%20Free-Sol
 Hello
 Bye
 who
+Cristal
