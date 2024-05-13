@@ -18,4 +18,8 @@ Bye
 who
 Cristal
 Lulys
+<<<<<<< HEAD
 subiendo un nuevo commit
+=======
+Haciendo una prueba
+>>>>>>> origin
